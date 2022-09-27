@@ -37,7 +37,7 @@
 
 ### macOS ###
 # General
-.DS_Store
+**/.DS_Store
 .AppleDouble
 .LSOverride
 
@@ -69,7 +69,7 @@ Temporary Items
 *.icloud
 
 ### VisualStudioCode ###
-.vscode/*
+**/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -96,4 +96,6 @@ Temporary Items
 *
 !/**/
 !*.*
+
+
 # End of https://www.toptal.com/developers/gitignore/api/c++,macos,visualstudiocode
