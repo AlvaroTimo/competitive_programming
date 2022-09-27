@@ -37,9 +37,11 @@
 
 ### macOS ###
 # General
-**/.DS_Store
+*/.DS_Store
 *.DS_Store
-.DS_Store/
+PrimerSet/.DS_Store/
+PrimerSet/.vscode/
+.DS_Store
 .vscode/*
 .AppleDouble
 .LSOverride
