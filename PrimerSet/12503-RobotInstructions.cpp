@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    ios_base::sync_with_stdio(false);
     int instrucciones[101], T, n, nroInstruccion, pos;
     string instruccion;
     cin>>T;
