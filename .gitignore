@@ -39,6 +39,8 @@
 # General
 **/.DS_Store
 *.DS_Store
+.DS_Store/
+.vscode/*
 .AppleDouble
 .LSOverride
 
@@ -70,9 +72,8 @@ Temporary Items
 *.icloud
 
 ### VisualStudioCode ###
-**/.vscode/*
-**/.vscode
-*.vscode
+.vscode/
+.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
