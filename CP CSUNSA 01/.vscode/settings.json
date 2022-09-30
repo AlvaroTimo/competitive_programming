@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "ios": "cpp",
+        "__config": "cpp",
+        "string": "cpp",
+        "map": "cpp",
+        "memory": "cpp",
+        "utility": "cpp",
+        "compare": "cpp",
+        "system_error": "cpp",
+        "ostream": "cpp",
+        "__split_buffer": "cpp",
+        "istream": "cpp"
+    }
+}
