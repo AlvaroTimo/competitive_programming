@@ -2,7 +2,7 @@
 #include<utility>
 #include<vector>
 
-
+    
 #define output(relevantes) for(int j=0;j<relevantes.size();j++) cout<<relevantes[j]<<endl
 
 using namespace std;

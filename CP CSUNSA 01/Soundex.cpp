@@ -30,6 +30,7 @@ void intializeTable(map<char, string>& values) {
 }
 
 int main() {
+    ios::sync_with_stdio(false);
     map<char, string> values;
     intializeTable(values);
     string word, equivalent;
